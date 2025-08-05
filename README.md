@@ -8,7 +8,7 @@ Many websites display a cookie consent popup to inform users about the use of co
 
 Here's an example of how the cookie consent popup should look:
 
-![Cookie Consent Popup](./assets/cookie-consent-preview.png)
+![Cookie Consent Popup](./assets/Cookie-Consent.png)
 
 The popup includes:
 - A clear message about cookie usage
